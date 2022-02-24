@@ -1,4 +1,4 @@
-# Game-of-Life-in-Excel-VBA
+# Game-of-Life-in-Excel-VBA (WIP)
 My first time using VBA, doing this in my free time at work over the course of a couple days.
 
 Sadly military computers restrict internet access and are from the last decade, so Excel VBA is all I have to work with for the next year and a half. Pretty chuffed with my progress to be honest.
