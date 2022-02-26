@@ -14,3 +14,10 @@ Sadly military computers restrict internet access and are from the last decade, 
 6. Select developer tab on excel workbook
 7. Select macros
 8. Run/Edit 
+
+# Inputs
+- "new" -> generates new random state
+- "glider" -> makes a glider in the top left
+- Any other non-null value -> ends the macro
+
+-> To change dimensions of the grid, alter values of xMin, xMax, yMin, yMax.
